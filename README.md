@@ -1,9 +1,9 @@
 # KJSCE
 Senior Year Thesis: Academic Assessment System for KJSCE Autonomy			     June 2016-May 2017
 Managed a team of 4 for the mobile app development on Android Platform which includes the following steps:
-	Ideation: As student empowerment was the theme we chose, we interviewed 8 different student personas to understand their pain points. And concluded that lack of clarity in understanding the grading system was common across
-	Requirements Gathering – We conducted focused group workshops with 4 of the groups to further understand difficulty in understanding the grading system and collected the data points accordingly
-	Solution Design – Designed the solution based on available technology, tools & data
+* Ideation: As student empowerment was the theme we chose, we interviewed 8 different student personas to understand their pain points. And concluded that lack of clarity in understanding the grading system was common across
+* Requirements Gathering – We conducted focused group workshops with 4 of the groups to further understand difficulty in understanding the grading system and collected the data points accordingly
+* Solution Design – Designed the solution based on available technology, tools & data
 	Performing Technical Tests – Tested the app for specific test cases
 	Performed User Acceptance Tests(UAT) - Conducted user tests with a sample group of users
 	Continuous Improvement – Added additional features based on the inputs of UAT
